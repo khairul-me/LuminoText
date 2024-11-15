@@ -207,8 +207,19 @@ analyzer.generate_concept_network()
 ![timeline](https://github.com/user-attachments/assets/08e5ad6c-3e90-480f-9dc4-98f1e01781c6)
 - Chronological event plotting
 - Event description integration
-- Time period analysis
+- Time period analysis  
 
+### 4. Keyword Frequencies
+![keyword_frequencies](https://github.com/user-attachments/assets/6a6b1152-d410-4cff-9290-83881a49773e)
+- race: 59
+- people: 55
+- racial: 52
+- amo: 46
+- black: 39
+- african: 38
+- century: 38
+- color: 28
+  
 ## Troubleshooting 🔧
 
 ### Common Issues and Solutions
