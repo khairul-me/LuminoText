@@ -186,7 +186,7 @@ analyzer.generate_concept_network()
 ## Visualization Guide 📊
 
 ### 1. Concept Network
-![Concept Network Example](https://via.placeholder.com/800x400.png?text=Concept+Network+Visualization)
+![concept_network](https://github.com/user-attachments/assets/ff9005d9-7c73-4d8a-aabf-66c5a01243e6)
 - Node size indicates concept importance
 - Edge thickness shows relationship strength
 - Colors represent different communities/themes
