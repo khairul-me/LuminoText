@@ -1,5 +1,36 @@
 # Religious and Humanities Text Analysis System (RHTAS) 📚
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Religious+and+Humanities+Text+Analysis+System)
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background with gradient -->
+    <defs>
+        <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#3498db;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="1200" height="300" fill="url(#bg-gradient)"/>
+
+    <!-- Decorative hexagon pattern -->
+    <g fill="rgba(255,255,255,0.1)">
+        <path d="M50,50 L80,30 L110,50 L110,90 L80,110 L50,90 Z"/>
+        <path d="M1100,200 L1130,180 L1160,200 L1160,240 L1130,260 L1100,240 Z"/>
+        <path d="M200,250 L230,230 L260,250 L260,290 L230,310 L200,290 Z"/>
+    </g>
+
+    <!-- Main Title -->
+    <text x="600" y="130" font-family="Arial" font-size="48" fill="white" text-anchor="middle" font-weight="bold">
+        Religious Text Analysis System
+    </text>
+
+    <!-- Subtitle -->
+    <text x="600" y="180" font-family="Arial" font-size="24" fill="rgba(255,255,255,0.9)" text-anchor="middle">
+        Advanced Analysis of Religious Texts Using AI
+    </text>
+
+    <!-- Version -->
+    <text x="1150" y="280" font-family="Arial" font-size="16" fill="rgba(255,255,255,0.7)" text-anchor="end">
+        v1.0.0
+    </text>
+</svg>
 
 ## Table of Contents 📑
 - [Overview](#overview)
