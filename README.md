@@ -289,24 +289,20 @@ python -m spacy download en_core_web_md --direct
 - **Major**: Robotics and Computer Science
 - **Research Interests**: AI, NLP, Digital Humanities
 - **Contact**: khairul.islam@hws.edu | (315) 878-9695
-- **LinkedIn**: [Profile Link]
-- **GitHub**: [Profile Link]
+- **LinkedIn**: https://www.linkedin.com/in/khairul7/
+- **GitHub**:https://github.com/khairul-me
 
 ### Project Maintenance
 - Current Version: 1.0.0
 - Last Updated: November 15, 2024
-- License: [MIT License](LICENSE)
 
 ---
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 - HWS Computer Science Department
-- Digital Humanities Community
+- HWS Religion & Humanities Community
 - Open Source Contributors
-- [Anthropic](https://www.anthropic.com/) for AI assistance
 
 ---
 
