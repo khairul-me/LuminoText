@@ -1,5 +1,5 @@
 # Religious and Humanities Text Analysis System (RHTAS) 📚
-!file:///C:/Users/khair/Downloads/project-banner.svg
+![project-banner](https://github.com/user-attachments/assets/d06b00b7-b090-4441-860f-a57f9bb7df21)
 
 ## Table of Contents 📑
 - [Overview](#overview)
