@@ -192,19 +192,19 @@ analyzer.generate_concept_network()
 - Colors represent different communities/themes
 
 ### 2. Topic Clusters
-![Topic Clusters Example](https://via.placeholder.com/800x400.png?text=Topic+Clusters+Visualization)
+![topic_clusters](https://github.com/user-attachments/assets/ddfe713f-d51f-43d1-8ee3-0ef45a1d2758)
 - Word clouds for each identified topic
 - Size indicates term frequency
 - Color indicates term importance
 
 ### 3. Sentiment Analysis
-![Sentiment Analysis Example](https://via.placeholder.com/800x400.png?text=Sentiment+Analysis+Visualization)
+![sentiment_analysis](https://github.com/user-attachments/assets/c6acf1e6-f8f2-4290-9975-714b55ee37a6)
 - Bar charts showing sentiment scores
 - Different themes represented
 - Compound score analysis
 
 ### 4. Timeline Visualization
-![Timeline Example](https://via.placeholder.com/800x400.png?text=Timeline+Visualization)
+![timeline](https://github.com/user-attachments/assets/08e5ad6c-3e90-480f-9dc4-98f1e01781c6)
 - Chronological event plotting
 - Event description integration
 - Time period analysis
