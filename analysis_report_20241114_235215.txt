@@ -1,0 +1,169 @@
+=== Enhanced Analysis Report ===
+
+1. Generated Summary:
+--------------------------------------------------
+a boy no more than five years old left Axim, on the African gold coast, for Amsterdam . he was on a ship belonging to the Dutch west india company . a boy no more than five years old left Axim, on the african gold coast, for Amsterdam . he arrived in the Dutch port of Wolfenbüttel . he then had to travel another few hundred miles to Wolfenbüttel . Anton Ulrich was a major patron of the european enlightenment . the child was offered as a "gift" to the duke, who in turn handed the boy on to his son, August Wilhelm . he was a member of August Wilhelm’s household, and a member of his family .
+
+2. Main Topics:
+--------------------------------------------------
+Topic_1: also, negro, differences, whether, anton, social, idea, negroes, made
+Topic_2: also, negro, differences, whether, anton, social, idea, negroes, made
+Topic_3: also, negro, differences, whether, anton, social, idea, negroes, made
+Topic_4: also, negro, differences, whether, anton, social, idea, negroes, made
+Topic_5: race, people, racial, amo, black, one, african, century, color
+
+3. Sentiment Analysis:
+--------------------------------------------------
+race:
+  compound: 0.066
+  pos: 0.068
+  neg: 0.050
+  neu: 0.882
+  count: 135.000
+education:
+  compound: 0.298
+  pos: 0.070
+  neg: 0.000
+  neu: 0.930
+  count: 17.000
+society:
+  compound: 0.311
+  pos: 0.082
+  neg: 0.027
+  neu: 0.891
+  count: 16.000
+politics:
+  compound: 0.076
+  pos: 0.059
+  neg: 0.072
+  neu: 0.869
+  count: 12.000
+
+4. Key Events Timeline:
+--------------------------------------------------
+1707: Phillis Wheatley, “On Being Brought from Africa to America” (1773) THE EXPERIMENT In 1707, a boy no more than five years old left Axim, on the African Gold Coast, for Amsterdam, aboard a ship belonging to the Dutch West India Company.
+1727: Amo must have flourished there, because he earned the right to go on, in 1727, to study law at the University of Halle, then (as now) one of Germany’s leading centers of teaching and research.
+1733: When the Elector of Saxony came to visit in 1733, Amo was chosen to lead the students’ procession in his honor.
+1738: Amo, who came to know Dutch, French, Latin, Greek, Hebrew, and, perhaps, English, as well as German, went on to teach at Halle and Jena, publishing, in 1738, a book entitled The Art of Sober and Accurate Philosophizing , which discussed issues in almost every area of the subject.
+1747: Reaching middle age, he decided that it was time to go home, and, in 1747 he made his way back to the Gold Coast, to the Nzema villages of his birth.
+1747: There is some suggestion that increasing color prejudice in this period in Germany—the early stirrings of Europe’s racial fixation—may have caused discomfort: a satirical play was performed in Halle in 1747 in which Astrine, a young German woman, refuses the amorous advances of an African philosophy teacher from Jena named Amo.
+1753: The philosopher David Hume, one of the beacons of the Scottish Enlightenment, wrote in a footnote in 1753, “There never was a civilized nation of any other complexion than white, nor even any individual eminent either in action or speculation.”
+1808: The Abbé Grégoire, the great French revolutionary priest and antislavery campaigner, published a survey of the cultural achievements of black people in 1808.
+1866: In 1866, a Czech monk by the name of Gregor Mendel published his proposal that the particulate factors we now call “genes” explained the patterns in the inheritance of the characteristics of organisms.
+1893: “Abandoning the sentiment of race,” he wrote in a Sierra Leonean newspaper, in 1893, was like trying to “do away with gravitation.”
+1893: In 1893, a year after arriving in Berlin, he wrote, It must be ever remembered that the great capitalists of Germany, the great leaders of industry are Jews; moreover, banded together by oppression in the past, they work for each other, and aided by the vast power of their wealth, and their great natural abilities, they have forced citadel after citadel, until now they practically control the stock-market, own the press, fill the bar and bench, are crowding the professions—indeed there seems to be no limit to the increase of their power.
+1893: And he went on, in distinct contrast to the tone of his 1893 report: “There has been no tragedy in modern times equal in its awful effects to the fight on the Jew in Germany.
+1895: He qualified for a doctorate in Germany, returning home without it only because he couldn’t afford to stay to meet the residence requirements, and receiving (almost as a sort of consolation prize) the first doctorate earned by an African-American at Harvard University, in 1895.
+1900: In 1900, in an address “To the Nations of the World” at the first Pan- African Conference in London, the eminent black intellectual W. E. B. Du Bois proclaimed that the “problem of the twentieth century” was “the problem of the color-line,” to wit: the question as to how far differences of race—which show themselves chiefly in the color of the skin and the texture of the hair —will hereafter be made the basis of denying to over half the world the right of sharing to their utmost ability the opportunities and privileges of modern civilization. . . .
+1903: In West Africa, the final British conquest of Kumasi, where I grew up, occurred just a few weeks after Du Bois’s London conference; and the Sokoto caliphate, in northern Nigeria, was conquered only in 1903.
+1904: In 1904, General Lothar von Trotha issued what came to be known as his Vernichtungsbefehl —an extermination order—in which he told the Herero that if they did not abandon their lands, he would shoot “every Herero man, with or without weapons” and that he would “accept no more women and children,” expelling them or allowing them, too, to be shot.
+1912: In the North, Morocco became a French protectorate in 1912, Egypt a British one in 1914.
+1914: In the North, Morocco became a French protectorate in 1912, Egypt a British one in 1914.
+1936: To the east, Ethiopia remained independent until 1936 (and became so again a mere five years later).
+1936: He visited Nazi Germany for six months in 1936— taking in a performance of Wagner’s Lohengrin at Bayreuth—and when he returned he wrote frankly (in one of his country’s leading black newspapers, the Pittsburgh Courier ) that the “campaign of race prejudice . . .
+1937–38: The sheer viciousness of the murder and rape in the massacre in Nanking, capital of the Republic of China, in 1937–38, where tens and perhaps hundreds of thousands of people were killed by Japanese soldiers, is a paradigm of racist violence.
+1965: In 2009, the median wealth of American white households was twenty times that of black households, almost half a century after the 1965 Voting Rights Act.
+1994: As for the Rwandan genocide of 1994, the separation of the country’s people into two races, Hutu and Tutsi (with a dash of Twa) was the product of Belgian colonial racial theory.
+2009: In 2009, the median wealth of American white households was twenty times that of black households, almost half a century after the 1965 Voting Rights Act.
+2013: In 2013, the nearly 30 million white people below the poverty line in the United States made up slightly more than half the total number of America’s poor.
+2014: It shows up in diverse ways: African-Americans are more likely than whites to be interested in U.S. foreign policy in Africa; people in Port Harcourt, Nigeria, protested the 2014 killing of Michael Brown by a white police officer in Ferguson, Missouri; black Americans have a special access to Ghanaian passports; Rastafarianism in the Caribbean celebrates Africa as the home of black people; and heritage tourism from North and South America and the Caribbean to West Africa has boomed.
+22: 22
+A year: A year before the London conference, he had published The Philadelphia Negro, the earliest detailed, statistical, sociological study of an American community.
+August: From his baptism until 1735, the boy continued to receive the patronage of the dukes of Brunswick-Wolfenbüttel, as Anton Ulrich was succeeded by August Wilhelm, and August Wilhelm was succeeded by his brother, Ludwig Rudolf, in turn.
+August Wilhelm: The child had apparently been offered as a “gift” to the duke, who, in turn, handed the boy on to his son, August Wilhelm; and we first hear of him as a member of August Wilhelm’s household.
+August Wilhelm: From his baptism until 1735, the boy continued to receive the patronage of the dukes of Brunswick-Wolfenbüttel, as Anton Ulrich was succeeded by August Wilhelm, and August Wilhelm was succeeded by his brother, Ludwig Rudolf, in turn.
+August Wilhelm’s: The child had apparently been offered as a “gift” to the duke, who, in turn, handed the boy on to his son, August Wilhelm; and we first hear of him as a member of August Wilhelm’s household.
+May: Remember, Christians, Negros, black as Cain, May be refin’d, and join th’ angelic train.
+Three hundred years later: THE RISE OF RACE Three hundred years later, we are bound to see his story through the prism of the modern idea of race.
+Today: Today, we’re left with questions: What did the soothsayer tell people he had learned from his long sojourn in the north?
+a century ago: And so, despite the fact that the genetic story is vastly more detailed than it was a century ago, a fundamental fact remains.
+a century and a half later: (It’s a mere dozen miles from where, a century and a half later, Kwame Nkrumah, the world’s best-known Nzema, was born.)
+a couple of decades: Grégoire’s exemplary Negroes included Angelo Soliman, another West African enslaved as a child, who had been educated by a marchioness in Messina in Sicily, and became the tutor to the heir to the Prince of Liechtenstein in Vienna, joining the same Masonic lodge as Mozart a couple of decades after Amo’s rise to eminence.
+a decade later: Taine, writing again about literature a decade later, says: A race, like the Old Aryans, scattered from the Ganges as far as the Hebrides, settled in every clime, and every stage of civilisation, transformed by thirty centuries of revolutions, nevertheless manifests in its languages, religions, literatures, philosophies, the community of blood and of intellect which to this day binds its offshoots together.
+a few years earlier: The ducal family might have been aware of a similar experiment, which began a few years earlier, when Tsar Peter the Great of Russia took an African slave as his godson, naming him Hannibal.
+a year: In 1893, a year after arriving in Berlin, he wrote, It must be ever remembered that the great capitalists of Germany, the great leaders of industry are Jews; moreover, banded together by oppression in the past, they work for each other, and aided by the vast power of their wealth, and their great natural abilities, they have forced citadel after citadel, until now they practically control the stock-market, own the press, fill the bar and bench, are crowding the professions—indeed there seems to be no limit to the increase of their power.
+almost half a century: In 2009, the median wealth of American white households was twenty times that of black households, almost half a century after the 1965 Voting Rights Act.
+another thirty years: But the significance of his work would not be appreciated for another thirty years.
+around 1900: Modern genetic theory, which treated our biological inheritance as the product of tens of thousands of individual factors, did not really begin until around 1900.
+between birth month: To say that these statistical discoveries vindicate the racial theories of the nineteenth century would be like arguing that the statistical correlation between birth month and the length of a career in the National Hockey League confirms the claims of astrology.
+fifth-century: There was nothing racial in the fifth-century BCE conflicts between China’s warring states, or the sixteenth-century battles that created the Mughal Empire, or between Asante and Denkyira in West Africa at the turn of the eighteenth century, or among the various Amerindian states of Mexico before the arrival of the Spanish.
+five years later: To the east, Ethiopia remained independent until 1936 (and became so again a mere five years later).
+four days: “His father and a sister were still alive and lived four days’ journey inland,” the doctor reported.
+hundred years: I’m not sure it would be useful to debate which of the many problems in the disaster-filled hundred years that followed Du Bois’s observation should count as the problem of the twentieth century.
+just a few weeks: In West Africa, the final British conquest of Kumasi, where I grew up, occurred just a few weeks after Du Bois’s London conference; and the Sokoto caliphate, in northern Nigeria, was conquered only in 1903.
+late-eighteenth-century: In Amo’s years in Germany, the transatlantic slave trade was rising toward its late-eighteenth-century peak, when some 80,000 people a year were transported in shackles from Africa to the New World.
+many weeks: In those days, the trip to Europe took many weeks, but his arrival in the Dutch port was not the end of his long journey.
+more than a century earlier: We do know he went on to the nearby university at Helmstedt, founded more than a century earlier by one of the duke’s predecessors.
+more than five years: This was more than five years before the creation of the first Todeslager , as the Nazis called the camps created specifically for the purposes of mass murder.
+nineteenth- century: And many, many people in the world live at the boundaries between the races imagined by nineteenth- century science: between African Negroes and European Caucasians there are Ethiopians and Arabs and Berbers; between the yellow races of East Asia and the white Europeans are the peoples of central and South Asia.
+nineteenth-and: Not only did European racial thinking develop, at least in part, to rationalize the Atlantic slave trade, it played a central role —often a pernicious one—in the development and execution of Europe’s nineteenth-and twentieth-century colonial projects; and, with the Nazis, it was central in organizing the systematic genocide of millions and millions of people, Jews and Roma, conceived as inferior races, among them.
+nineteenth-century: (The ground-shaking nineteenth-century German philosopher Friedrich Nietzsche called him “the first of living historians.”)
+nineteenth-century: If you want to think about how the limits of human capability are set by genetic inheritance, it won’t help you to think about those nineteenth-century races: Negro, Caucasian, Oriental.
+nineteenth-century: In this case, the nineteenth-century race concept is the lost wax: the substance may have melted away, but we’ve intently filled the space it created.
+recent years: Among the hundreds of thousands of Chinese now working in Africa, racial condescension of a sort familiar from the European colonial period is common (and, alas, anti-Chinese attacks have occurred in many African countries in recent years).
+recent years: I mentioned that some scholars have sought to reintroduce a biological race concept in recent years, using sophisticated statistical techniques that uncover patterns among individual genotypes that reflect shared ancestry.
+six months: He visited Nazi Germany for six months in 1936— taking in a performance of Wagner’s Lohengrin at Bayreuth—and when he returned he wrote frankly (in one of his country’s leading black newspapers, the Pittsburgh Courier ) that the “campaign of race prejudice . . .
+sixteenth-century: The French revolutionary priest also told the older tale of Juan Latino, the poet and professor of grammar and Latin in sixteenth-century Granada; known as “El negro Juan Latino,” he shows up in the first of the burlesque poems that Cervantes wrote at the start of Don Quixote.
+sixteenth-century: There was nothing racial in the fifth-century BCE conflicts between China’s warring states, or the sixteenth-century battles that created the Mughal Empire, or between Asante and Denkyira in West Africa at the turn of the eighteenth century, or among the various Amerindian states of Mexico before the arrival of the Spanish.
+that century: But there’s no denying that race, as Du Bois understood it, was central around the world in the moral and political life of that century.
+the 1860s: “Science has now made visible to everybody the great and pregnant elements of difference which lie in race,” Arnold writes in the 1860s.
+the 1960s: Against this somber background, it’s worth reminding ourselves, then, that the 6 to 9 million Soviet citizens whose deaths were due to Stalin, or the even greater numbers of Chinese who succumbed in the Great Leap Forward, or the millions of victims of the murderous policies of Pol Pot in Cambodia, or the hundreds of thousands killed in India’s partition or the anticommunist campaigns in Indonesia in the 1960s, were mostly the victims of hostilities based on ideology or religion, rather than anything like race.
+the beginning of the twenty-first century: Since the beginning of the twenty-first century, we have made huge strides in understanding the human genome.
+the decades: But the condescension (and worse) displayed toward China by many Japanese in the decades between the First Sino-Japanese War (1894–95) and World War II is naturally thought of as racial, too.
+the earlier: Over the course of the nineteenth century, out of a noisy debate, three ideas increasingly took hold, ideas that made it harder to accommodate the earlier, biblical picture.
+the early twentieth century: When chromosomes were discovered, in the early twentieth century, you could understand that genes would mostly be inherited independently of one another; even those on the same chromosome could become separated in the cell divisions that precede the creation of each sperm and each egg.
+the eighteenth century: Immanuel Kant, the most influential European philosopher of the eighteenth century, famously declared, in 1764—it was not his best moment —that the fact that someone “was completely black from head to foot” was a “distinct proof that what he said was stupid.”
+the last 100,000 years or so: Those patterns reflect the ways in which human groups have traveled over the last 100,000 years or so, as well as the history of the forces of selection that have shaped local populations.
+the last half of the nineteenth century: And by the last half of the nineteenth century in the world of the North Atlantic, the racial fixation was everywhere.
+the late eighteenth century: Since the late eighteenth century, the conviction has grown and spread that all of us carry within us something derived from the race to which we belong that explains our mental and physical potential.
+the later eighteenth century: Many historians have concluded that one reason for the increasingly negative view of the Negro through the later eighteenth century was the need to salve the consciences of those who trafficked in and exploited enslaved men and women.
+the later nineteenth century: Matthew Arnold was the most distinguished English literary critic of the later nineteenth century.
+the mid- nineteenth century: Arthur de Gobineau, a French count who, in the mid- nineteenth century, published the mammoth Essay on the Inequality of the Human Races , sought to expose the differences in aptitudes and appetites that underlay such morphological differences, distinguishing not only among black, yellow, and white, but, within the white race, the distinctly favored “Aryan family.”
+the mid-1750s: A Dutch ship’s doctor met him in the mid-1750s at Axim.
+the mid-twentieth century: 21 BLOODLINES Du Bois was not alone in failing to anticipate that race would also play a disastrous role in the history of Europe itself in the mid-twentieth century; but, familiar as he was with German culture at the turn of the century, he was well aware that attitudes to the Jews and the Slavs there had resonances with the antiblack racism he knew from his homeland.
+the nineteenth century: Over the course of the nineteenth century, out of a noisy debate, three ideas increasingly took hold, ideas that made it harder to accommodate the earlier, biblical picture.
+the nineteenth century: And so, in the course of the nineteenth century, in a hubbub of contentious argument, the modern race concept took hold.
+the nineteenth century: To say that these statistical discoveries vindicate the racial theories of the nineteenth century would be like arguing that the statistical correlation between birth month and the length of a career in the National Hockey League confirms the claims of astrology.
+the nineteenth century: THE COLOR OF POLITICS The racial assumptions of the nineteenth century were not just scientific; they were also moral.
+the start of the twentieth century: Civic and economic inequality between races —whether produced by government policy, by private discrimination, or by the very complex interactions between the two of them—were pervasive features of states at the start of the twentieth century, and they remained so long after that first Pan-African conference was but a distant memory.
+the turn of the century: 21 BLOODLINES Du Bois was not alone in failing to anticipate that race would also play a disastrous role in the history of Europe itself in the mid-twentieth century; but, familiar as he was with German culture at the turn of the century, he was well aware that attitudes to the Jews and the Slavs there had resonances with the antiblack racism he knew from his homeland.
+the turn of the eighteenth century: There was nothing racial in the fifth-century BCE conflicts between China’s warring states, or the sixteenth-century battles that created the Mughal Empire, or between Asante and Denkyira in West Africa at the turn of the eighteenth century, or among the various Amerindian states of Mexico before the arrival of the Spanish.
+the twentieth century: In 1900, in an address “To the Nations of the World” at the first Pan- African Conference in London, the eminent black intellectual W. E. B. Du Bois proclaimed that the “problem of the twentieth century” was “the problem of the color-line,” to wit: the question as to how far differences of race—which show themselves chiefly in the color of the skin and the texture of the hair —will hereafter be made the basis of denying to over half the world the right of sharing to their utmost ability the opportunities and privileges of modern civilization. . . .
+the twentieth century: I’m not sure it would be useful to debate which of the many problems in the disaster-filled hundred years that followed Du Bois’s observation should count as the problem of the twentieth century.
+the twentieth century: Du Bois was not remotely parochial in his interests or his analyses: and when he said that race was to be the problem of the twentieth century, he didn’t just mean in his own country, and he didn’t just mean his own race.
+the twentieth century: These notions persisted well into the twentieth century: during the Second World War, Winston Churchill’s doctor wrote in his diaries, apropos of the prime minister’s attitude to China: “Winston thinks only of the color of their skin; it is when he talks of India or China that you remember he is a Victorian.”
+the twentieth century: The first genocide of the twentieth century began in the German colony of South West Africa, which is now Namibia.
+the twenty-first century: COLOR INSIDE THE LINES In the twenty-first century, one might have hoped to see signs that race thinking and the hostilities grounded in race—the problem of the color line —might be vanishing.
+the years: 3 Beginning in the years that Amo was in Europe, a contest developed between the older biblical understanding of the nature of humanity and this newer one that grew with the increasing prestige of the scientific study of humankind.
+the years: A second idea that took hold in the years after Amo came to Europe followed from the racial fixation.
+their day: By their day, then, race was a central preoccupation of European history and literary criticism, and not just of the social and biological sciences.
+thirty centuries: Taine, writing again about literature a decade later, says: A race, like the Old Aryans, scattered from the Ganges as far as the Hebrides, settled in every clime, and every stage of civilisation, transformed by thirty centuries of revolutions, nevertheless manifests in its languages, religions, literatures, philosophies, the community of blood and of intellect which to this day binds its offshoots together.
+this day: Taine, writing again about literature a decade later, says: A race, like the Old Aryans, scattered from the Ganges as far as the Hebrides, settled in every clime, and every stage of civilisation, transformed by thirty centuries of revolutions, nevertheless manifests in its languages, religions, literatures, philosophies, the community of blood and of intellect which to this day binds its offshoots together.
+this new century: In this new century, as in the last, the color line and its cousins are still going strong.
+those days: In those days, the trip to Europe took many weeks, but his arrival in the Dutch port was not the end of his long journey.
+twentieth-century: Another thing became clear through the course of twentieth-century genetics.
+twentieth-century: Not only did European racial thinking develop, at least in part, to rationalize the Atlantic slave trade, it played a central role —often a pernicious one—in the development and execution of Europe’s nineteenth-and twentieth-century colonial projects; and, with the Nazis, it was central in organizing the systematic genocide of millions and millions of people, Jews and Roma, conceived as inferior races, among them.
+years: Nevertheless, his German training left him touched by the anti-Semitism that was already on the rise during his student years.
+
+5. Top Keywords and Their Frequencies:
+--------------------------------------------------
+race: 59
+people: 55
+racial: 52
+amo: 46
+black: 39
+african: 38
+century: 38
+color: 28
+world: 27
+africa: 21
+human: 21
+european: 20
+genes: 19
+europe: 18
+great: 18
+groups: 18
+white: 18
+bois: 17
+like: 16
+races: 15
