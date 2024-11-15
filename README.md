@@ -288,7 +288,7 @@ python -m spacy download en_core_web_md --direct
 - **Institution**: Hobart and William Smith Colleges, Geneva, NY
 - **Major**: Robotics and Computer Science
 - **Research Interests**: AI, NLP, Digital Humanities
-- **Contact**: khairul.islam@hws.edu | (315) 878-9695
+- **Contact**: khairul.islam@hws.edu 
 - **LinkedIn**: https://www.linkedin.com/in/khairul7/
 - **GitHub**:https://github.com/khairul-me
 
