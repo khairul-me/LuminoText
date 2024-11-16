@@ -1,3 +1,86 @@
+flowchart TD
+    subgraph Init["Initialization"]
+        A[Start] --> B[Load Required Models]
+        B --> |"Load spaCy NLP"| C1["Load 'en_core_web_md'"]
+        B --> |"Load NLTK"| C2["Load tokenizers & stopwords"]
+        B --> |"Load T5"| C3["Initialize T5 for summarization"]
+    end
+
+    subgraph TextExtraction["Text Extraction & Preprocessing"]
+        D[PDF Input] --> E["Extract Text using PyMuPDF"]
+        E --> F["Preserve Document Structure"]
+        F --> G["Clean Text"]
+        G --> |"Remove special chars"| H1["Remove [...]"]
+        G --> |"Normalize"| H2["Fix spacing"]
+        G --> |"Structure"| H3["Maintain paragraphs"]
+    end
+
+    subgraph Analysis["Parallel Analysis Pipeline"]
+        I["Cleaned Text"] --> J1["Topic Modeling"]
+        I --> J2["Sentiment Analysis"]
+        I --> J3["Timeline Extraction"]
+        I --> J4["Concept Network"]
+        I --> J5["Keyword Analysis"]
+
+        subgraph TopicMod["Topic Modeling Process"]
+            J1 --> K1["TF-IDF Vectorization"]
+            K1 --> L1["LDA Analysis"]
+            L1 --> M1["Extract Top Words per Topic"]
+        end
+
+        subgraph SentimentAn["Sentiment Analysis Process"]
+            J2 --> K2["Split into Sentences"]
+            K2 --> L2["VADER Analysis"]
+            L2 --> M2["Calculate Theme Scores"]
+        end
+
+        subgraph TimelineEx["Timeline Extraction Process"]
+            J3 --> K3["Named Entity Recognition"]
+            K3 --> L3["Extract Dates"]
+            L3 --> M3["Map Events to Dates"]
+        end
+
+        subgraph ConceptNet["Concept Network Process"]
+            J4 --> K4["Extract Key Terms"]
+            K4 --> L4["Build Graph Relationships"]
+            L4 --> M4["Calculate Centrality"]
+        end
+
+        subgraph KeywordAn["Keyword Analysis Process"]
+            J5 --> K5["Tokenize & Filter"]
+            K5 --> L5["Calculate Frequencies"]
+            L5 --> M5["Rank Keywords"]
+        end
+    end
+
+    subgraph Visualization["Visualization Generation"]
+        N["Collect Analysis Results"] --> O1["Generate Network Graphs"]
+        N --> O2["Create Timeline Plots"]
+        N --> O3["Build Word Clouds"]
+        N --> O4["Plot Sentiment Charts"]
+        N --> O5["Generate Frequency Plots"]
+    end
+
+    subgraph Output["Report Generation"]
+        P["Combine Results"] --> Q["Format Report"]
+        Q --> R["Generate Summary"]
+        R --> S["Save Analysis Report"]
+        S --> T["Save Visualizations"]
+    end
+
+    Init --> TextExtraction
+    TextExtraction --> Analysis
+    Analysis --> Visualization
+    Visualization --> Output
+
+    style Init fill:#e6f3ff
+    style TextExtraction fill:#fff2e6
+    style Analysis fill:#e8f5e9
+    style Visualization fill:#fce4ec
+    style Output fill:#f3e5f5
+
+
+
 graph TD
     subgraph Initialize["1. System Initialization"]
         A1[Load Required Models]-->A2[Initialize NLP Pipeline]
