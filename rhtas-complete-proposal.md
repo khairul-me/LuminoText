@@ -203,20 +203,33 @@ graph LR
 
 ```mermaid
 gantt
-    title RHTAS Development Timeline
-    dateFormat  YYYY-MM-DD
-    section Infrastructure
-    Setup Development Environment    :2024-01-01, 30d
-    Deploy Basic Infrastructure     :2024-02-01, 45d
+    title RHTAS 5-Month Development Timeline (August - December 2024)
+    dateFormat YYYY-MM-DD
+    
+    section Infrastructure Setup
+    Development Environment Setup     :2024-08-01, 10d
+    Core Infrastructure Deployment    :2024-08-11, 15d
+    Database & Storage Setup          :2024-08-20, 10d
+    
     section Core Development
-    Document Processing Implementation :2024-03-15, 60d
-    AI Model Integration            :2024-05-15, 90d
-    section Interface
-    UI Development                  :2024-08-15, 60d
-    Testing & Optimization          :2024-10-15, 45d
-    section Launch
-    Beta Testing                    :2024-12-01, 30d
-    Production Release              :2025-01-01, 30d
+    Document Processing Pipeline      :2024-09-01, 20d
+    AI Models Integration            :2024-09-15, 25d
+    NLP Components Implementation    :2024-09-25, 20d
+    
+    section Interface Development
+    Frontend Framework Setup         :2024-10-01, 15d
+    UI Components Development        :2024-10-15, 20d
+    Visualization Tools             :2024-10-25, 15d
+    
+    section Testing & Optimization
+    Unit Testing                    :2024-11-01, 15d
+    Integration Testing             :2024-11-15, 15d
+    Performance Optimization        :2024-11-25, 15d
+    
+    section Deployment
+    Beta Testing                    :2024-12-01, 15d
+    Bug Fixes & Refinements         :2024-12-15, 10d
+    Production Release              :2024-12-25, 7d
 ```
 
 ### Phase Breakdown
