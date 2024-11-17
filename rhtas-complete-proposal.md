@@ -26,8 +26,8 @@ The Religious and Humanities Text Analysis System (RHTAS) represents a groundbre
 
 ### Project Overview
 - **Project Name**: Religious and Humanities Text Analysis System (RHTAS)
-- **Duration**: 12 months
-- **Total Budget**: $977,500
+- **Duration**: 2 months
+- **Total Budget**: Etin's homemade food.
 - **Primary Stakeholders**: Academic institutions, researchers, students
 - **Technology Stack**: Python, PyTorch, TensorFlow, Redis, PostgreSQL
 
