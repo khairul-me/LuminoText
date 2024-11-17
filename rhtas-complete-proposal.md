@@ -469,9 +469,7 @@ flowchart LR
 **Project Lead**: Md Khairul Islam  
 **Institution**: Hobart and William Smith Colleges  
 **Location**: Geneva, NY  
-**Email**: [project@rhtas.edu](mailto:project@rhtas.edu)  
-**Website**: [www.rhtas.edu](http://www.rhtas.edu)
-
+**Email**: [khairul.islam@hws.edu](mailto:project@rhtas.edu)  
 ---
 
-*Document End*
+* Thank you*
