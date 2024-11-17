@@ -1,0 +1,61 @@
+flowchart TD
+    classDef inputClass fill:#e6f3ff,stroke:#1976d2,stroke-width:2px
+    classDef processingClass fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px
+    classDef analysisClass fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
+    classDef visualClass fill:#fff3e0,stroke:#ff9800,stroke-width:2px
+    classDef outputClass fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px
+
+    subgraph Input["1. Document Input System"]
+        A1["PDF/Text Documents"] -->|PyMuPDF| A2["Text Extraction"]
+        A2 -->|"Structure Preservation"| A3["Raw Text + Metadata"]
+    end
+
+    subgraph Preprocessing["2. Text Preprocessing Engine"]
+        B1["Text Cleaning"] -->|"Remove Special Chars"| B2["Normalization"]
+        B2 -->|"NLTK + spaCy"| B3["Tokenization"]
+        B3 -->|"Custom Filters"| B4["Clean Text"]
+    end
+
+    subgraph NLP["3. NLP Processing Pipeline"]
+        C1["spaCy Pipeline"] -->|"en_core_web_md"| C2["Named Entity Recognition"]
+        C1 -->|"Language Processing"| C3["Part-of-Speech Tagging"]
+        C1 -->|"Dependency Parsing"| C4["Syntactic Analysis"]
+    end
+
+    subgraph Analysis["4. Multi-Analysis System"]
+        D1["Topic Modeling"] -->|"LDA Algorithm"| D2["Topic Clusters"]
+        D3["Sentiment Analysis"] -->|"VADER"| D4["Emotion Scores"]
+        D5["Timeline Analysis"] -->|"Date Extraction"| D6["Chronological Events"]
+        D7["Network Analysis"] -->|"NetworkX"| D8["Concept Graphs"]
+        D9["Keyword Analysis"] -->|"TF-IDF"| D10["Key Terms"]
+    end
+
+    subgraph ML["5. Machine Learning Layer"]
+        E1["T5 Transformer"] -->|"Summarization"| E2["Context Understanding"]
+        E2 -->|"Deep Learning"| E3["Pattern Recognition"]
+    end
+
+    subgraph Visualization["6. Visualization Engine"]
+        F1["Data Processing"] -->|"Matplotlib/Seaborn"| F2["Chart Generation"]
+        F2 -->|"Custom Plotting"| F3["Interactive Visualizations"]
+    end
+
+    subgraph Output["7. Output Generation"]
+        G1["Report Compilation"] -->|"Template Engine"| G2["Analysis Report"]
+        G2 -->|"PDF Generation"| G3["Final Documentation"]
+    end
+
+    Input -->|"Cleaned Text"| Preprocessing
+    Preprocessing -->|"Processed Text"| NLP
+    NLP -->|"NLP Results"| Analysis
+    Analysis -->|"Analysis Results"| ML
+    ML -->|"ML Insights"| Visualization
+    Visualization -->|"Visualizations"| Output
+
+    class Input inputClass
+    class Preprocessing processingClass
+    class NLP processingClass
+    class Analysis analysisClass
+    class ML analysisClass
+    class Visualization visualClass
+    class Output outputClass
