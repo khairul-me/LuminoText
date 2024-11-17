@@ -472,4 +472,4 @@ flowchart LR
 **Email**: [khairul.islam@hws.edu](mailto:project@rhtas.edu)  
 ---
 
-* Thank you*
+* Thank you!
