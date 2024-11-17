@@ -92,6 +92,8 @@ Religious and humanities texts present unique analytical challenges:
 ---
 
 ## System Architecture
+![research-flow-svg](https://github.com/user-attachments/assets/2b6eff7d-c9e6-463d-b2ac-138c0fa0ef50)
+
 
 ### High-Level Architecture
 
